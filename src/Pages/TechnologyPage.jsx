@@ -1,4 +1,3 @@
-import Tech from '../assets/technology/image-launch-vehicle-portrait.jpg'
 import { useState } from 'react'
 import data from "../data.json"
 

@@ -1,4 +1,3 @@
-import ladyPic from "../assets/crew/image-anousheh-ansari.png"
 import { useState } from 'react'
 import data from '../data.json'
 import { HiOutlineArrowSmRight } from "react-icons/hi";
