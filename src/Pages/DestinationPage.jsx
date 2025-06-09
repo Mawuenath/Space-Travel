@@ -60,10 +60,10 @@ const handleDestination = (destination) => {
                     <div className='w-1/2'>
                         <div className='w-12'>
                             <ul className='flex flex-row gap-10'>
-                                <li onClick={()=> handleDestination('Moon') } className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer hover:border-b-white">MOON</li>
-                                <li onClick={()=> handleDestination('Mars')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white">MARS</li>
-                                <li onClick={()=> handleDestination('Europa')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white">EUROPA</li>
-                                <li onClick={()=> handleDestination('Titan')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white">TITAN</li>
+                                <li onClick={()=> handleDestination('Moon') } className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer hover:border-b-white hover:text-white">MOON</li>
+                                <li onClick={()=> handleDestination('Mars')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white hover:text-white">MARS</li>
+                                <li onClick={()=> handleDestination('Europa')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white hover:text-white">EUROPA</li>
+                                <li onClick={()=> handleDestination('Titan')}  className="text-gray-500 hover:border-b-2 py-2 pb-5 hover:cursor-pointer border-b-white hover:text-white">TITAN</li>
                             </ul>
                         </div>
 
