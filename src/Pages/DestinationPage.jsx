@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import bg from '/destination/background-destination-desktop.jpg'
 import data from '../data.json'
 
 

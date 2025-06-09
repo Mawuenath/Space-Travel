@@ -5,7 +5,7 @@
 // import Technology from './pages/Home'
 // import NavBar from './components/NavBar'
 
-import { BrowserRouter, Link, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import HomePage from "./Pages/HomePage";
 import DestinationPage from "./Pages/DestinationPage";

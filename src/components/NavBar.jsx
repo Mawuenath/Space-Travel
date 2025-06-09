@@ -17,7 +17,7 @@ function NavBar() {
                     <Link to="/">00 HOME</Link></li>
 
                 <li className="text-white text-sm py-8 hover:border-b-2">
-                    <Link to="/Destination"> 01 DESTINATION </Link></li>
+                    <Link to="/destination"> 01 DESTINATION </Link></li>
 
                 <li className="text-white text-sm py-8 hover:border-b-2">
                     <Link to="/Crew">02 CREW </Link></li>
